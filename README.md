@@ -6,8 +6,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of endeavr is to calculate Multivariate Gaussian density for an
-observed data matrix with given mean vector and covariance matrix
+The goal of endeavr is to create conflict
 
 ## Installation
 
