@@ -11,5 +11,5 @@ RoxygenNote: 7.3.2
 Suggests: 
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
-URL: https://github.com/annesh07/endeavr
+URL: https://github.com/annesh07/endeavr, https://annesh07.github.io/endeavr_collab/
 BugReports: https://github.com/annesh07/endeavr/issues
