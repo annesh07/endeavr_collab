@@ -6,7 +6,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of endeavr is to create conflict
+The goal of endeavr is to create conflict Adding pull
 
 ## Installation
 
