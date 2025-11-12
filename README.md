@@ -4,6 +4,8 @@
 # endeavr
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/annesh07/endeavr/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/annesh07/endeavr/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of endeavr is to create conflict Adding pull
