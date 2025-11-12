@@ -19,6 +19,7 @@ knitr::opts_chunk$set(
 <!-- badges: end -->
 
 The goal of endeavr is to create conflict
+Adding for pull request
 
 ## Installation
 
